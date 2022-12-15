@@ -1,0 +1,5 @@
+{
+    "name":"Terraform Deploy Infrastructure",
+    "description":"Deploys the infrastructure using terraform.",
+    "categories": ["terraform"] 
+}

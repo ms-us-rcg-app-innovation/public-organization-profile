@@ -1,0 +1,5 @@
+{
+    "name":"Terraform Validate Infrastructure",
+    "description":"Validates the terraform and infrastructure. Intended for checking pull requests before merge.",
+    "categories": ["terraform"] 
+}

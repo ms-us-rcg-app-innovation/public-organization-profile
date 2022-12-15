@@ -1,0 +1,5 @@
+{
+    "name":"Terraform Bootstrap Infrastructure",
+    "description":"Bootstraps the terraform infrastructure by creating a tfstate resource group and storage account.",
+    "categories": ["terraform"] 
+}
